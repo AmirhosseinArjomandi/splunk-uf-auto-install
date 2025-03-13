@@ -1,4 +1,4 @@
-# Splunk UF Auto-Install Script
+# Splunk UF Auto-Install Script ( Linux Version )
 
 ### What This Script Does:
 This script automates the installation and configuration of **Splunk Universal Forwarder (UF)**. It includes:
